@@ -1,4 +1,4 @@
-## Pull Request Type
+## Pull Request Type 📦
 What kind of change does this PR introduce?
 - [ ] 🐛 Bugfix
 - [ ] ✨ Feature
