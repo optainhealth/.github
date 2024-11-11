@@ -22,6 +22,7 @@ Before submitting this PR, please ensure that the following steps have been take
 - [ ] 🕵️ Are there any erroneous console logs, debuggers, or leftover code in your changes?
 - [ ] 🛠️ Code builds without errors
 - [ ] 🧪 Unit tests pass
+- [ ] 📝 Update [Galen Data Cloud - Environment-Based Change History and Screenshots](https://optain-jira.atlassian.net/wiki/spaces/OPTAIN/pages/287670283/Galen+Data+Cloud+-+Environment-Based+Change+History+and+Screenshots) if necessary
 - [ ] 📖 Documentation has been updated if necessary
 - [ ] 👀 All relevant reviewers have been notified
 
